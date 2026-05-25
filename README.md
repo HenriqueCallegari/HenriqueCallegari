@@ -32,7 +32,7 @@
 
 <img align="right" height="180" src="https://raw.githubusercontent.com/devSouravGhosh/devSouravGhosh/master/coding.gif" alt="coding gif" />
 
-Olá! Sou o **Henrique Callegari** — desenvolvedor **fullstack** com gosto tanto pelo backend (Python/Django, modelagem de dados, APIs) quanto pelo frontend (HTML, CSS, JavaScript, UX que não atrapalhe o usuário).
+Olá! Sou o **Henrique Callegari** — desenvolvedor **Backend** com gosto tanto pelo backend (Python/Django, modelagem de dados, APIs) quanto pelo frontend (HTML, CSS, JavaScript, UX que não atrapalhe o usuário).
 
 - Curto **construir produtos do zero ao deploy** — modelar dados, desenhar telas, subir em produção.
 - Aprendendo todos os dias sobre **arquitetura limpa**, **boas práticas de banco** e **interfaces que respondem rápido**.
@@ -108,7 +108,7 @@ Olá! Sou o **Henrique Callegari** — desenvolvedor **fullstack** com gosto tan
 
 **[TrainFlow](https://github.com/HenriqueCallegari/Trainflow)** — *Django · PostgreSQL · HTML/CSS · Render*
 
-Plataforma fullstack de gestão de treinos de powerlifting. Backend em Django (auth, ORM, permissões granulares), frontend em templates + CSS próprio, deploy contínuo no Render. Inclui calculadoras matemáticas oficiais com 29 testes automatizados.
+Plataforma Backend de gestão de treinos de powerlifting. Backend em Django (auth, ORM, permissões granulares), frontend em templates + CSS próprio, deploy contínuo no Render. Inclui calculadoras matemáticas oficiais com 29 testes automatizados.
 
 <div align="center">
 
