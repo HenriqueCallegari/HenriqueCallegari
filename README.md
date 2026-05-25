@@ -8,22 +8,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Desenvolvedor+Fullstack;Construindo+APIs+e+interfaces;Apaixonado+por+codigo+limpo;Sempre+aprendendo+algo+novo" alt="typing" />
 </a>
 
-<br /><br />
+`<br /><br />`
 
-<a href="https://github.com/HenriqueCallegari?tab=followers">
-  <img src="https://custom-icon-badges.demolab.com/github/followers/HenriqueCallegari?style=for-the-badge&logo=person-add&label=Followers&labelColor=2c2f33&color=5865f2&logoColor=white" alt="Followers" />
-</a>
-<a href="https://github.com/HenriqueCallegari?tab=repositories&sort=stargazers">
-  <img src="https://custom-icon-badges.demolab.com/github/stars/HenriqueCallegari?style=for-the-badge&logo=star&label=Stars&color=f1c40f&logoColor=white&labelColor=2c2f33" alt="Stars" />
-</a>
 <a href="mailto:henriquecallegariprof@gmail.com">
   <img src="https://custom-icon-badges.demolab.com/badge/-Email-D14836?style=for-the-badge&logo=mail&logoColor=white&labelColor=2c2f33" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/henrique-callegari-/">
+  <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2c2f33" alt="LinkedIn" />
 </a>
 <a href="https://github.com/HenriqueCallegari">
   <img src="https://custom-icon-badges.demolab.com/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2c2f33" alt="GitHub" />
 </a>
 
-<br /><br />
+`<br /><br />`
 
 <img src="https://komarev.com/ghpvc/?username=HenriqueCallegari&label=Profile%20views&color=8B5CF6&style=for-the-badge" alt="profile views" />
 
@@ -62,30 +59,36 @@ Olá! Sou o **Henrique Callegari** — desenvolvedor **fullstack** com gosto tan
   <img src="https://skillicons.dev/icons?i=django,postgres,sqlite&theme=dark" alt="backend" />
 </a>
 
+### Dados, Visualização & IA
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=plotly,streamlit&theme=dark" alt="data viz" />
+</a>
+<br />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" />
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+
 ### Ferramentas
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,dbeaver&theme=dark" alt="tools" />
 </a>
 
-</div>
+### Pacote Office
 
----
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+<img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word" />
+<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint" />
+<img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
 
-## Estatísticas do GitHub
+### Google Workspace
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=HenriqueCallegari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=8B5CF6&title_color=8B5CF6&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="github stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueCallegari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&langs_count=8" alt="top languages" />
-
-<br />
-
-<img height="180" src="https://streak-stats.demolab.com?user=HenriqueCallegari&theme=tokyonight&hide_border=true&background=0d1117&stroke=8B5CF6&ring=8B5CF6&fire=db2777&currStreakLabel=8B5CF6" alt="streak stats" />
-
-<br /><br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=HenriqueCallegari&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="trophies" />
+<img src="https://img.shields.io/badge/Sheets-188038?style=for-the-badge&logo=google-sheets&logoColor=white" alt="Google Sheets" />
+<img src="https://img.shields.io/badge/Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white" alt="Google Docs" />
+<img src="https://img.shields.io/badge/Drive-1A73E8?style=for-the-badge&logo=google-drive&logoColor=white" alt="Google Drive" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+<img src="https://img.shields.io/badge/Calendar-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Google Calendar" />
 
 </div>
 
@@ -135,17 +138,12 @@ Descrição curta (1-2 linhas) do que o projeto faz e do seu papel.
 <a href="mailto:henriquecallegariprof@gmail.com">
   <img src="https://custom-icon-badges.demolab.com/badge/Gmail-D14836?style=for-the-badge&logo=mail&logoColor=white" alt="Gmail" />
 </a>
+<a href="https://www.linkedin.com/in/henrique-callegari-/">
+  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 <a href="https://github.com/HenriqueCallegari">
   <img src="https://custom-icon-badges.demolab.com/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<!-- Adicione seu LinkedIn, Instagram, etc. no mesmo padrão:
-<a href="https://www.linkedin.com/in/SEU-USUARIO">
-  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://www.instagram.com/SEU-USUARIO">
-  <img src="https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
--->
 
 </div>
 
@@ -157,7 +155,7 @@ Descrição curta (1-2 linhas) do que o projeto faz e do seu papel.
 
 <img src="https://raw.githubusercontent.com/HenriqueCallegari/HenriqueCallegari/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
-<br /><br />
+`<br /><br />`
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:db2777,50:6d28d9,100:1e3a8a&height=100&section=footer" alt="footer" />
 
