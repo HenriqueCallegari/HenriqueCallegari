@@ -5,7 +5,7 @@
 <br />
 
 <a href="https://github.com/HenriqueCallegari">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Desenvolvedor+Fullstack;Construindo+APIs+e+interfaces;Apaixonado+por+codigo+limpo;Sempre+aprendendo+algo+novo" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Desenvolvedor+Backend;Construindo+APIs+e+interfaces;Apaixonado+por+codigo+limpo;Sempre+aprendendo+algo+novo" alt="typing" />
 </a>
 
 `<br /><br />`
