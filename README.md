@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:6d28d9,100:db2777&height=240&section=header&text=Henrique%20Callegari&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Backend%20%E2%80%A2%20Python%20%E2%80%A2%20Django&descAlignY=60&descSize=20" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:6d28d9,100:db2777&height=240&section=header&text=Henrique%20Callegari&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Fullstack%20%E2%80%A2%20Python%20%E2%80%A2%20JavaScript&descAlignY=60&descSize=20" alt="header" />
 
 <br />
 
 <a href="https://github.com/HenriqueCallegari">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Backend+developer+%E2%9A%99%EF%B8%8F;Apaixonado+por+Python+e+Django;Construindo+TrainFlow+%F0%9F%8F%8B%EF%B8%8F;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Desenvolvedor+Fullstack;Construindo+APIs+e+interfaces;Apaixonado+por+codigo+limpo;Sempre+aprendendo+algo+novo" alt="typing" />
 </a>
 
 <br /><br />
@@ -35,13 +35,12 @@
 
 <img align="right" height="180" src="https://raw.githubusercontent.com/devSouravGhosh/devSouravGhosh/master/coding.gif" alt="coding gif" />
 
-Olá! Sou o **Henrique Callegari** — desenvolvedor com foco em **backend Python/Django** e curiosidade ampla por tudo que vai de banco de dados a UX.
+Olá! Sou o **Henrique Callegari** — desenvolvedor **fullstack** com gosto tanto pelo backend (Python/Django, modelagem de dados, APIs) quanto pelo frontend (HTML, CSS, JavaScript, UX que não atrapalhe o usuário).
 
-- Atualmente construindo **[TrainFlow](https://github.com/HenriqueCallegari/Trainflow)** — plataforma de gestão de treinos de powerlifting para treinadores IPF/CBLB.
-- Aprendendo todos os dias sobre **arquitetura limpa**, **PostgreSQL** e **deploy em produção**.
-- Background em **performance esportiva** (powerlifting) — uso código pra resolver dores reais que vivi.
-- Procurando oportunidades em **desenvolvimento backend** ou **fullstack júnior**.
-- Pergunte qualquer coisa sobre: **Python, Django, PostgreSQL, Powerlifting, IPF Goodlift math** :smile:
+- Curto **construir produtos do zero ao deploy** — modelar dados, desenhar telas, subir em produção.
+- Aprendendo todos os dias sobre **arquitetura limpa**, **boas práticas de banco** e **interfaces que respondem rápido**.
+- Foco atual: dominar o ciclo completo de uma aplicação web e escrever código que **outra pessoa entenda em 6 meses**.
+- Pergunte qualquer coisa sobre **Python, Django, PostgreSQL, HTML/CSS/JS, Git** :smile:
 
 <br clear="right" />
 
@@ -54,19 +53,19 @@ Olá! Sou o **Henrique Callegari** — desenvolvedor com foco em **backend Pytho
 ### Linguagens
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,bash&theme=dark" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" alt="languages" />
 </a>
 
-### Frameworks & Bancos
+### Backend & Bancos
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=django,fastapi,postgres,sqlite,redis&theme=dark" alt="frameworks" />
+  <img src="https://skillicons.dev/icons?i=django,postgres,sqlite&theme=dark" alt="backend" />
 </a>
 
-### Infra & Ferramentas
+### Ferramentas
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,nginx,vercel&theme=dark" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="tools" />
 </a>
 
 </div>
@@ -92,7 +91,7 @@ Olá! Sou o **Henrique Callegari** — desenvolvedor com foco em **backend Pytho
 
 ---
 
-## Projeto em destaque
+## Projetos em destaque
 
 <div align="center">
 
@@ -102,11 +101,11 @@ Olá! Sou o **Henrique Callegari** — desenvolvedor com foco em **backend Pytho
 
 </div>
 
-### TrainFlow — Plataforma de powerlifting
+<br />
 
-Django · PostgreSQL · Gunicorn · WhiteNoise · Render
+**[TrainFlow](https://github.com/HenriqueCallegari/Trainflow)** — *Django · PostgreSQL · HTML/CSS · Render*
 
-Sistema completo onde treinadores planejam ciclos de powerlifting e atletas registram a execução. Tonelagem semanal, classificação de exercícios por *tier*, calculadoras oficiais **IPF GL Points** (Goodlift 2020), **1RM** (Epley/Brzycki), **RPE/RIR**. 29 testes automatizados na matemática.
+Plataforma fullstack de gestão de treinos de powerlifting. Backend em Django (auth, ORM, permissões granulares), frontend em templates + CSS próprio, deploy contínuo no Render. Inclui calculadoras matemáticas oficiais com 29 testes automatizados.
 
 <div align="center">
 
@@ -118,6 +117,14 @@ Sistema completo onde treinadores planejam ciclos de powerlifting e atletas regi
 </a>
 
 </div>
+
+<br />
+
+<!-- Adicione mais projetos no mesmo padrão. Sugestão de template:
+**[Nome do Projeto](https://github.com/HenriqueCallegari/repo)** — *stack usada*
+
+Descrição curta (1-2 linhas) do que o projeto faz e do seu papel.
+-->
 
 ---
 
@@ -131,7 +138,7 @@ Sistema completo onde treinadores planejam ciclos de powerlifting e atletas regi
 <a href="https://github.com/HenriqueCallegari">
   <img src="https://custom-icon-badges.demolab.com/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<!-- Adicione seu LinkedIn, Instagram, YouTube etc. aqui no mesmo padrão:
+<!-- Adicione seu LinkedIn, Instagram, etc. no mesmo padrão:
 <a href="https://www.linkedin.com/in/SEU-USUARIO">
   <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
@@ -153,7 +160,5 @@ Sistema completo onde treinadores planejam ciclos de powerlifting e atletas regi
 <br /><br />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:db2777,50:6d28d9,100:1e3a8a&height=100&section=footer" alt="footer" />
-
-*"O código não mente — ou compila, ou não compila."*
 
 </div>
