@@ -98,15 +98,14 @@ Olá! Sou o **Henrique Callegari** — desenvolvedor **Backend** com gosto tanto
 
 <div align="center">
 
-<a href="https://github.com/HenriqueCallegari/Trainflow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenriqueCallegari&repo=Trainflow&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&icon_color=8B5CF6" alt="Trainflow repo card" />
+<a href="https://github.com/HenriqueCallegari/BibliaKja">
 </a>
 
 </div>
 
 <br />
 
-**[TrainFlow](https://github.com/HenriqueCallegari/bibliakja)** — Flask · Sqlite · HTML/CSS/JS · Render*
+**[BibliaKJA](https://github.com/HenriqueCallegari/bibliakja)** — Flask · Sqlite · HTML/CSS/JS · Render*
 
 Plataforma religiosa de leitura da bilbia. Backend em Flask (Routes, port), frontend em templates + CSS próprio, deploy contínuo no Render. Inclui planos biblicos e diversas dinamicas oficiai, testes realizados.
 
