@@ -112,10 +112,10 @@ Plataforma religiosa de leitura da bilbia. Backend em Flask (Routes, port), fron
 
 <div align="center">
 
-<a href="https://trainflow-r3qd.onrender.com">
+<a href="https://bibliakja-4xzz.onrender.com/">
   <img src="https://custom-icon-badges.demolab.com/badge/-Live%20Demo-2ea44f?style=for-the-badge&logo=rocket&logoColor=white" alt="demo" />
 </a>
-<a href="https://github.com/HenriqueCallegari/Trainflow">
+<a href="https://github.com/HenriqueCallegari/BibliaKja">
   <img src="https://custom-icon-badges.demolab.com/badge/-Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="repo" />
 </a>
 
