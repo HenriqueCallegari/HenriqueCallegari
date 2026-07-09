@@ -107,7 +107,7 @@ Olá! Sou o **Henrique Callegari** — desenvolvedor **Backend** com gosto tanto
 
 **[BibliaKJA](https://github.com/HenriqueCallegari/bibliakja)** — Flask · Sqlite · HTML/CSS/JS · Render*
 
-Plataforma religiosa de leitura da bilbia. Backend em Flask (Routes, port), frontend em templates + CSS próprio, deploy contínuo no Render. Inclui planos biblicos e diversas dinamicas oficiai, testes realizados.
+Plataforma religiosa de leitura da bilbia. Backend em Flask (Routes, port), frontend em templates + CSS próprio, deploy contínuo no Render. Inclui planos biblicos e diversas dinamicas proprias, testes realizados.
 
 <div align="center">
 
