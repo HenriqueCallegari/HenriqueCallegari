@@ -106,9 +106,9 @@ Olá! Sou o **Henrique Callegari** — desenvolvedor **Backend** com gosto tanto
 
 <br />
 
-**[TrainFlow](https://github.com/HenriqueCallegari/Trainflow)** — *Django · PostgreSQL · HTML/CSS · Render*
+**[TrainFlow](https://github.com/HenriqueCallegari/bibliakja)** — Flask · Sqlite · HTML/CSS/JS · Render*
 
-Plataforma Backend de gestão de treinos de powerlifting. Backend em Django (auth, ORM, permissões granulares), frontend em templates + CSS próprio, deploy contínuo no Render. Inclui calculadoras matemáticas oficiais com 29 testes automatizados.
+Plataforma religiosa de leitura da bilbia. Backend em Flask (Routes, port), frontend em templates + CSS próprio, deploy contínuo no Render. Inclui planos biblicos e diversas dinamicas oficiai, testes realizados.
 
 <div align="center">
 
