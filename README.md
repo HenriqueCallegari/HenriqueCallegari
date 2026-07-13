@@ -37,7 +37,7 @@ Olá! Sou o **Henrique Callegari** — desenvolvedor **Backend** com gosto tanto
 - Curto **construir produtos do zero ao deploy** — modelar dados, desenhar telas, subir em produção.
 - Aprendendo todos os dias sobre **arquitetura limpa**, **boas práticas de banco** e **interfaces que respondem rápido**.
 - Foco atual: dominar o ciclo completo de uma aplicação web e escrever código que **outra pessoa entenda em 6 meses**.
-- Pergunte qualquer coisa sobre **Python, Django, PostgreSQL, HTML/CSS/JS, Git** :smile:
+- Gosto bastante desses tópicos, estão sendo o meu foco no momento -> **Python, Django, PostgreSQL, HTML/CSS/JS, Git** :smile:
 
 <br clear="right" />
 
